@@ -1,0 +1,5 @@
+- insert:
+    - id: llm-api-perf-workbench
+      name: dsh-llm-api-perf-workbench
+      config:
+        root: !!js dshHomePath('llm-api-perf-workbench')
